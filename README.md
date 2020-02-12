@@ -6,7 +6,7 @@
 
 [![NPM version](https://img.shields.io/npm/v/@nationalbankbelgium/code-style.svg)](https://www.npmjs.com/package/@nationalbankbelgium/code-style)
 [![npm](https://img.shields.io/npm/dm/@nationalbankbelgium/code-style.svg)](https://www.npmjs.com/package/@nationalbankbelgium/code-style)
-[![Build Status](https://github.com/NationalBankBelgium/code-style/workflows/build/badge.svg)](https://github.com/NationalBankBelgium/code-style/actions?query=workflow%3Abuild)
+[![Build Status](https://github.com/SuperITMan/code-style/workflows/build/badge.svg)](https://github.com/SuperITMan/code-style/actions?query=workflow%3Abuild)
 [![Commitizen friendly](https://img.shields.io/badge/commitizen-friendly-brightgreen.svg)](http://commitizen.github.io/cz-cli/)
 [![code style: prettier](https://img.shields.io/badge/code_style-prettier-ff69b4.svg?style=flat-square)](https://github.com/prettier/prettier)
 [![License](https://img.shields.io/cocoapods/l/AFNetworking.svg)](LICENSE)
