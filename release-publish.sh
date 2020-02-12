@@ -17,7 +17,7 @@ DRY_RUN=false
 #IFS=$OLD_IFS # restore IFS
 PACKAGE=code-style
 
-EXPECTED_REPO_SLUG="NationalBankBelgium/code-style"
+EXPECTED_REPO_SLUG="SuperITMan/code-style"
 EXPECTED_NODE_VERSION="10"
 
 GH_ACTIONS_TAG=${GH_ACTIONS_TAG:-""}
