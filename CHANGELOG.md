@@ -1,3 +1,21 @@
+<a name="1.1.0"></a>
+
+# [1.1.0](https://github.com/NationalBankBelgium/code-style/compare/1.0.1...1.1.0) (2020-02-14)
+
+### Bug Fixes
+
+-   **stylelint:** remove wrong extend to "stylelint-config-prettier" in stylelint 9.10.x configuration.<br />The `stylelint/9.10.x` config was mistakenly extending from `stylelint-config-prettier` and therefore the `"extends": "stylelint-config-prettier"` has been removed from that config since `code-style` doesn't depend on such library in any way.<br />Please add that yourself in your stylelint config if necessary. ([d6e6431](https://github.com/NationalBankBelgium/code-style/commit/d6e6431)), closes [#17](https://github.com/NationalBankBelgium/code-style/issues/17)
+-   **tslint:** remove the rules of TSLint v4.4+ from the 4.3.x subpackage ([33043da](https://github.com/NationalBankBelgium/code-style/commit/33043da)), closes [#14](https://github.com/NationalBankBelgium/code-style/issues/14)
+
+### Features
+
+-   **stylelint:** add support for stylelint 10.0.x ([08955a5](https://github.com/NationalBankBelgium/code-style/commit/08955a5)), closes [#17](https://github.com/NationalBankBelgium/code-style/issues/17)
+-   **stylelint:** add support for stylelint 10.1.x ([e6b09ae](https://github.com/NationalBankBelgium/code-style/commit/e6b09ae))
+-   **stylelint:** add support for stylelint 11.0.x ([e8b102a](https://github.com/NationalBankBelgium/code-style/commit/e8b102a))
+-   **stylelint:** add support for stylelint 11.1.x ([5698332](https://github.com/NationalBankBelgium/code-style/commit/5698332))
+-   **stylelint:** add support for stylelint 12.0.x ([659f4b8](https://github.com/NationalBankBelgium/code-style/commit/659f4b8))
+-   **stylelint:** add support for stylelint 13.0.x ([5be3092](https://github.com/NationalBankBelgium/code-style/commit/5be3092))
+
 <a name="1.0.1"></a>
 
 ## [1.0.1](https://github.com/NationalBankBelgium/code-style/compare/1.0.0...1.0.1) (2019-06-04)
